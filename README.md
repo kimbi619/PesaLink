@@ -40,14 +40,14 @@ PesaLink is a robust, secure, and scalable open-source payment solution designed
 
 ## Key Features
 
-🔒 **Secure Transactions**: End-to-end encryption for all financial data.
-🌐 **Multiple Payment Gateways**: Support for various payment providers.
-🔔 **Real-time Notifications**: Webhooks for instant transaction updates.
-🔑 **Advanced Authentication**: Secure user accounts with Simple JWT.
-📊 **Detailed Reporting**: Comprehensive financial analytics and logs.
-🚀 **Scalable Architecture**: Designed for high-volume transactions.
-🌍 **Internationalization**: Support for multiple languages and currencies.
-📱 **Responsive Design**: Seamless experience across all devices.
+- 🔒 **Secure Transactions**: End-to-end encryption for all financial data.
+- 🌐 **Multiple Payment Gateways**: Support for various payment providers.
+- 🔔 **Real-time Notifications**: Webhooks for instant transaction updates.
+- 🔑 **Advanced Authentication**: Secure user accounts with Simple JWT.
+- 📊 **Detailed Reporting**: Comprehensive financial analytics and logs.
+- 🚀 **Scalable Architecture**: Designed for high-volume transactions.
+- 🌍 **Internationalization**: Support for multiple languages and currencies.
+- 📱 **Responsive Design**: Seamless experience across all devices.
 
 
 ## Prerequisites
