@@ -32,22 +32,22 @@
 - [License](#license)
 - [Support](#support)
 
-## About PesaLink
 
-PesaLink is an open-source payment project built with Django, designed to provide a robust and secure backend for handling financial transactions. It aims to simplify the integration of payment systems for developers and businesses.
+## Overview
 
-## Features
+PesaLink is a robust, secure, and scalable open-source payment solution designed to simplify financial transactions for businesses and developers. Built with Django and JavaScript, it offers a powerful backend with a user-friendly interface.
 
-- **Secure Transactions**: End-to-end encryption for all financial data.
-- **Multiple Payment Gateways**: Support for various payment providers.
-- **Webhooks**: Real-time notifications for transaction events.
-- **User Authentication**: Secure user accounts and access control.
-- **Transaction History**: Detailed logs of all payment activities.
-- **API-First Design**: RESTful API for easy integration with front-end applications.
-- **Scalable Architecture**: Built to handle high transaction volumes.
-- **Internationalization**: Support for multiple languages and currencies.
-- **Comprehensive Reporting**: Generate detailed financial reports.
 
+## Key Features
+
+🔒 **Secure Transactions**: End-to-end encryption for all financial data.
+🌐 **Multiple Payment Gateways**: Support for various payment providers.
+🔔 **Real-time Notifications**: Webhooks for instant transaction updates.
+🔑 **Advanced Authentication**: Secure user accounts with Simple JWT.
+📊 **Detailed Reporting**: Comprehensive financial analytics and logs.
+🚀 **Scalable Architecture**: Designed for high-volume transactions.
+🌍 **Internationalization**: Support for multiple languages and currencies.
+📱 **Responsive Design**: Seamless experience across all devices.
 ## Prerequisites
 
 - Python 3.8+
