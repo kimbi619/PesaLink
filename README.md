@@ -48,6 +48,8 @@ PesaLink is a robust, secure, and scalable open-source payment solution designed
 🚀 **Scalable Architecture**: Designed for high-volume transactions.
 🌍 **Internationalization**: Support for multiple languages and currencies.
 📱 **Responsive Design**: Seamless experience across all devices.
+
+
 ## Prerequisites
 
 - Python 3.8+
