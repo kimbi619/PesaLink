@@ -2,10 +2,19 @@
 
 ![PesaLink Logo](link_to_logo_image)
 
-[![Build Status](link_to_build_status_badge)](link_to_build_status)
-[![License](link_to_license_badge)](link_to_license)
-[![Python Version](link_to_python_version_badge)](link_to_python_version)
-[![Django Version](link_to_django_version_badge)](link_to_django_version)
+[![Python](https://img.shields.io/badge/Python-3.8.10-blue.svg)](https://www.python.org/downloads/release/python-3810/)
+[![Django](https://img.shields.io/badge/Django-4.2.15-green.svg)](https://docs.djangoproject.com/en/4.2/)
+[![DRF](https://img.shields.io/badge/Django%20REST%20Framework-3.14.0-red.svg)](https://www.django-rest-framework.org/)
+[![Simple JWT](https://img.shields.io/badge/Simple%20JWT-5.2.2-orange.svg)](https://django-rest-framework-simplejwt.readthedocs.io/)
+[![Redis](https://img.shields.io/badge/Redis-7.0.5-red.svg)](https://redis.io/)
+[![Celery](https://img.shields.io/badge/Celery-5.2.7-brightgreen.svg)](https://docs.celeryproject.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![License](https://img.shields.io/badge/License-Custom-blue.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+[Documentation](link_to_docs) | [Demo](link_to_demo) | [Report Bug](link_to_issues) | [Request Feature](link_to_feature_request)
+
 
 ## Table of Contents
 - [About PesaLink](#about-pesalink)
