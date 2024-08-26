@@ -50,6 +50,33 @@ PesaLink is a robust, secure, and scalable open-source payment solution designed
 - 📱 **Responsive Design**: Seamless experience across all devices.
 
 
+## Supported Providers
+
+PesaLink integrates with a wide range of payment providers and financial services to offer flexible payment options for businesses and customers alike.
+
+### Payment Gateways
+- ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+- ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+- ![Square](https://img.shields.io/badge/Square-3E4348?style=for-the-badge&logo=square&logoColor=white)
+
+### Mobile Money
+- ![M-Pesa](https://img.shields.io/badge/M--Pesa-00AA13?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrO0biAQnywUSbjS1hA7SDhwOkRJwB6+PkZAQHSQdmHSAqQBfwNheZo2wg/MDI63Wa898O2+swhP0+32dJMk9md8wdzUHdV0/jsfjz1P7vTbneX5DgTcKXNq2XaRpOl0sFsMm9GfHIAguaXpgbmutF1mWvTYC5nVd16N2u30nohVqXlmWvW82mzEnuRjL9XpdMDTCb6F2REZEzBkAp+wFR2AzDIfDj/V67Y7KOIR7xjCZTIqqqh4YLkRkwHzH1GUJ+jym02kpIu/ucZZXxDwgYFNK3TK/8EIw+LB9TqQCN85nraIodPNGeDWfwH+4hsgLix+hhcBfQ3RFxI5r/gKtOzpmf/4DNQfsJl8LOdUAAAAASUVORK5CYII=)
+- ![Orange Money](https://img.shields.io/badge/Orange%20Money-FF6600?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADdSURBVHgBjZLBDYJAEEX/LF5JxBsHEmhjB5qGtUMJlmAHagVGB3rXg5EEOxA6gAvzCQskhCDJJpvZ+fN2Z3YUTtBoNHRZlvfM7UHsENNAKfWptR4fz/f4Y7PZbGqtX4g7Zs4Mw3AFdEnmj6IonoXneW1iB+Z3pdSCJE+AjSiKvovFIrUJYc4wncAv4mdFUcyw98XcIhmHeYHwbIzJbUVYYEKSIfMd8xuJPJJM7I9A4jjOsfddSIzZEQjUZnNqC2SY5/mA+Yy4Q7yhoPLvsqzk1Ot0OhX8Gdi5Xdd9A0e6WpXJ0OwxAAAAAElFTkSuQmCC)
+
+### Bank Transfers
+- ![ACH](https://img.shields.io/badge/ACH-1A1F71?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADNSURBVHgBjZLBDYJAEEX/ECuxBCowdCAdaAfQgR1gB2IFhg6wA+1AOtAOdHeYkcSEGEg2m9md/2d39iucwfd9nWXZAFybpnnFP4iiaEGcIrbMeSB+KqV2WZaNzmePcRwnDMNnCm6ttTfHcVb9UxRFmuf5M41b5h7JOoTvJEneKHABVySvSb6g6SBJkh+sciwQx/GYuENc/VZgHSAIglchapIvbUKSGGPMtk6LKIrGzB2SH8aYKV/3OLB2tdb/BRZyaEryAMBUVbVt25Z/YA+HZmzMgN2I+wAAAABJRU5ErkJggg==)
+- ![SEPA](https://img.shields.io/badge/SEPA-004494?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADxSURBVHgBjVLBDYJAEJyDA0uwBCvQDqQD6UA6ECvADsQKhA7sQDuQDrQDmMtOCPgSEy+5vd3ZmdnbO4Uj+L6v0zS9p/OB2q2pQAjhKY7j+eH7Dg1pmtZRFE3ovLTWDp7nTU8GhHCR2Rhjpggt4zheFUWxlCTHRtu2D/jtqKW2KMtysZf1PE9ba6+SJLGSJG1kGoO/yYZpkbquExHGsFTXdXb4JZEbY14wvSEzqKqqqyzLlIBNjmitfWPbPaFAtlC5hnUDzhKGOvKcgW1ZHHNAIJ9ZCb/PIhyDLQiCK/Jq+gzDMBfVfWW7tm23HN5fwRcLc2E5wLpwrwAAAABJRU5ErkJggg==)
+
+### Cryptocurrencies
+- ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+- ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
+### Other Services
+- ![Plaid](https://img.shields.io/badge/Plaid-000000?style=for-the-badge&logo=plaid&logoColor=white)
+- ![Dwolla](https://img.shields.io/badge/Dwolla-FF7300?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADdSURBVHgBjVLBDYJAEJyDA0uwBCvQDqQD6UA6ECvADsQKhA7sQDuQDrQDmMtOCPgSEy+5vd3ZmdnbO4Uj+L6v0zS9p/OB2q2pQAjhKY7j+eH7Dg1pmtZRFE3ovLTWDp7nTU8GhHCR2Rhjpggt4zheFUWxlCTHRtu2D/jtqKW2KMtysZf1PE9ba6+SJLGSJG1kGoO/yYZpkbquExHGsFTXdXb4JZEbY14wvSEzqKqqqyzLlIBNjmitfWPbPaFAtlC5hnUDzhKGOvKcgW1ZHHNAIJ9ZCb/PIhyDLQiCK/Jq+gzDMBfVfWW7tm23HN5fwRcLc2E5wLpwrwAAAABJRU5ErkJggg==)
+
+PesaLink is constantly expanding its list of supported providers. For the most up-to-date information and integration details, please refer to our [Provider Documentation](link_to_provider_docs).
+
 ## Prerequisites
 
 - Python 3.8+
@@ -144,34 +171,6 @@ For coverage report:
 coverage run manage.py test
 coverage report
 ```
-
-## Supported Providers
-
-PesaLink integrates with a wide range of payment providers and financial services to offer flexible payment options for businesses and customers alike.
-
-### Payment Gateways
-- ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-- ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-- ![Square](https://img.shields.io/badge/Square-3E4348?style=for-the-badge&logo=square&logoColor=white)
-
-### Mobile Money
-- ![M-Pesa](https://img.shields.io/badge/M--Pesa-00AA13?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrO0biAQnywUSbjS1hA7SDhwOkRJwB6+PkZAQHSQdmHSAqQBfwNheZo2wg/MDI63Wa898O2+swhP0+32dJMk9md8wdzUHdV0/jsfjz1P7vTbneX5DgTcKXNq2XaRpOl0sFsMm9GfHIAguaXpgbmutF1mWvTYC5nVd16N2u30nohVqXlmWvW82mzEnuRjL9XpdMDTCb6F2REZEzBkAp+wFR2AzDIfDj/V67Y7KOIR7xjCZTIqqqh4YLkRkwHzH1GUJ+jym02kpIu/ucZZXxDwgYFNK3TK/8EIw+LB9TqQCN85nraIodPNGeDWfwH+4hsgLix+hhcBfQ3RFxI5r/gKtOzpmf/4DNQfsJl8LOdUAAAAASUVORK5CYII=)
-- ![Orange Money](https://img.shields.io/badge/Orange%20Money-FF6600?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADdSURBVHgBjZLBDYJAEEX/LF5JxBsHEmhjB5qGtUMJlmAHagVGB3rXg5EEOxA6gAvzCQskhCDJJpvZ+fN2Z3YUTtBoNHRZlvfM7UHsENNAKfWptR4fz/f4Y7PZbGqtX4g7Zs4Mw3AFdEnmj6IonoXneW1iB+Z3pdSCJE+AjSiKvovFIrUJYc4wncAv4mdFUcyw98XcIhmHeYHwbIzJbUVYYEKSIfMd8xuJPJJM7I9A4jjOsfddSIzZEQjUZnNqC2SY5/mA+Yy4Q7yhoPLvsqzk1Ot0OhX8Gdi5Xdd9A0e6WpXJ0OwxAAAAAElFTkSuQmCC)
-
-### Bank Transfers
-- ![ACH](https://img.shields.io/badge/ACH-1A1F71?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADNSURBVHgBjZLBDYJAEEX/ECuxBCowdCAdaAfQgR1gB2IFhg6wA+1AOtAOdHeYkcSEGEg2m9md/2d39iucwfd9nWXZAFybpnnFP4iiaEGcIrbMeSB+KqV2WZaNzmePcRwnDMNnCm6ttTfHcVb9UxRFmuf5M41b5h7JOoTvJEneKHABVySvSb6g6SBJkh+sciwQx/GYuENc/VZgHSAIglchapIvbUKSGGPMtk6LKIrGzB2SH8aYKV/3OLB2tdb/BRZyaEryAMBUVbVt25Z/YA+HZmzMgN2I+wAAAABJRU5ErkJggg==)
-- ![SEPA](https://img.shields.io/badge/SEPA-004494?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADxSURBVHgBjVLBDYJAEJyDA0uwBCvQDqQD6UA6ECvADsQKhA7sQDuQDrQDmMtOCPgSEy+5vd3ZmdnbO4Uj+L6v0zS9p/OB2q2pQAjhKY7j+eH7Dg1pmtZRFE3ovLTWDp7nTU8GhHCR2Rhjpggt4zheFUWxlCTHRtu2D/jtqKW2KMtysZf1PE9ba6+SJLGSJG1kGoO/yYZpkbquExHGsFTXdXb4JZEbY14wvSEzqKqqqyzLlIBNjmitfWPbPaFAtlC5hnUDzhKGOvKcgW1ZHHNAIJ9ZCb/PIhyDLQiCK/Jq+gzDMBfVfWW7tm23HN5fwRcLc2E5wLpwrwAAAABJRU5ErkJggg==)
-
-### Cryptocurrencies
-- ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-- ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### Other Services
-- ![Plaid](https://img.shields.io/badge/Plaid-000000?style=for-the-badge&logo=plaid&logoColor=white)
-- ![Dwolla](https://img.shields.io/badge/Dwolla-FF7300?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADdSURBVHgBjVLBDYJAEJyDA0uwBCvQDqQD6UA6ECvADsQKhA7sQDuQDrQDmMtOCPgSEy+5vd3ZmdnbO4Uj+L6v0zS9p/OB2q2pQAjhKY7j+eH7Dg1pmtZRFE3ovLTWDp7nTU8GhHCR2Rhjpggt4zheFUWxlCTHRtu2D/jtqKW2KMtysZf1PE9ba6+SJLGSJG1kGoO/yYZpkbquExHGsFTXdXb4JZEbY14wvSEzqKqqqyzLlIBNjmitfWPbPaFAtlC5hnUDzhKGOvKcgW1ZHHNAIJ9ZCb/PIhyDLQiCK/Jq+gzDMBfVfWW7tm23HN5fwRcLc2E5wLpwrwAAAABJRU5ErkJggg==)
-
-PesaLink is constantly expanding its list of supported providers. For the most up-to-date information and integration details, please refer to our [Provider Documentation](link_to_provider_docs).
-
 
 ## Deployment
 
