@@ -1,8 +1,3 @@
-Thank you for providing that reference documentation. I'd be happy to help you create a similar, but improved documentation for your PesaLink project. Let's start by creating a structure and then fill in the details. I'll use markdown formatting to make it more GitHub-friendly.
-
-Here's a draft of the documentation for PesaLink:
-
-```markdown
 # PesaLink
 
 ![PesaLink Logo](link_to_logo_image)
