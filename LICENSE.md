@@ -1,85 +1,62 @@
-Licence Propriétaire ADS pour le Backend Harpie
+# PesaLink Proprietary License
 
-Droit d'auteur (c) 2024 ADS (ADMINISTRATEURS SYSTÈMES)
+**Copyright (c) 2024 Tiidel**
 
-Tous droits réservés.
+*All rights reserved.*
 
-1. Définitions
-   "Logiciel" désigne les composants backend du projet Harpie, y compris tout code source, code objet, documentation et matériels connexes.
-   "ADS" désigne Advanced Development Systems, le créateur et propriétaire du Logiciel.
+## 1. Definitions
 
-2. Octroi de Licence
-   ADS vous accorde une licence non exclusive, non transférable et révocable pour utiliser le Logiciel uniquement à des fins internes au sein de votre organisation, sous réserve des termes et conditions de cette Licence.
+- **"Software"** refers to the PesaLink project, including all source code, object code, documentation, and related materials.
+- **"Tiidel"** refers to the creator and owner of the Software.
 
-3. Restrictions
-   Vous ne pouvez pas :
-   a) Distribuer, sous-licencier ou mettre le Logiciel à la disposition d'un tiers.
-   b) Modifier, adapter ou créer des œuvres dérivées basées sur le Logiciel.
-   c) Procéder à l'ingénierie inverse, décompiler ou désassembler le Logiciel.
-   d) Supprimer ou modifier les mentions de propriété ou les étiquettes sur le Logiciel.
+## 2. License Grant
 
-4. Propriété
-   ADS conserve tous les droits, titres et intérêts sur le Logiciel, y compris tous les droits de propriété intellectuelle.
+Tiidel grants you a non-exclusive, non-transferable, revocable license to use the Software solely for internal purposes within your organization, subject to the terms and conditions of this License.
 
-5. Confidentialité
-   Vous acceptez de maintenir la confidentialité du Logiciel et de ne divulguer aucune partie de celui-ci à des tiers sans le consentement écrit préalable d'ADS.
+## 3. Restrictions
 
-6. Résiliation
-   Cette Licence est en vigueur jusqu'à sa résiliation. ADS peut résilier cette Licence à tout moment si vous ne respectez pas l'un de ses termes ou conditions. À la résiliation, vous devez cesser toute utilisation du Logiciel et détruire toutes les copies en votre possession.
+You may not:
 
-7. Exclusion de Garantie
-   Le Logiciel est fourni "TEL QUEL" sans garantie d'aucune sorte, expresse ou implicite.
+a) Distribute, sublicense, or make the Software available to any third party.
+b) Modify, adapt, or create derivative works based on the Software without explicit written permission from Tiidel.
+c) Reverse engineer, decompile, or disassemble the Software.
+d) Remove or alter any proprietary notices or labels on the Software.
+e) Use the Software for any illegal or unauthorized purpose.
 
-8. Limitation de Responsabilité
-   En aucun cas ADS ne sera responsable des dommages résultant de l'utilisation ou de l'impossibilité d'utiliser le Logiciel.
+## 4. Ownership
 
-9. Loi Applicable
-   Cette Licence sera régie et interprétée conformément aux lois de Cameroun.
+Tiidel retains all right, title, and interest in and to the Software, including all intellectual property rights.
 
-En utilisant le Logiciel, vous acceptez d'être lié par les termes de cette Licence.
+## 5. Confidentiality
 
+You agree to maintain the confidentiality of the Software and not disclose any part of it to third parties without prior written consent from Tiidel.
 
+## 6. Termination
 
-===========================================================================================================================
-============================================ ENGLISH ======================================================================
-===========================================================================================================================
+This License is effective until terminated. Tiidel may terminate this License at any time if you fail to comply with any term or condition. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
 
-ADS Proprietary License for Harpie Backend
+## 7. Disclaimer of Warranty
 
-Copyright (c) 2024 ADS (ADMINISTRATEURS SYSTÈMES)
+**The Software is provided "AS IS" without warranty of any kind**, either express or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
 
-All rights reserved.
+## 8. Limitation of Liability
 
-1. Definitions
-   "Software" refers to the backend components of the Harpie project, including all source code, object code, documentation, and related materials.
-   "ADS" refers to Advanced Development Systems, the creator and owner of the Software.
+In no event shall Tiidel be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this Software, even if advised of the possibility of such damage.
 
-2. License Grant
-   ADS grants you a non-exclusive, non-transferable, revocable license to use the Software solely for internal purposes within your organization, subject to the terms and conditions of this License.
+## 9. Governing Law
 
-3. Restrictions
-   You may not:
-   a) Distribute, sublicense, or make the Software available to any third party.
-   b) Modify, adapt, or create derivative works based on the Software.
-   c) Reverse engineer, decompile, or disassemble the Software.
-   d) Remove or alter any proprietary notices or labels on the Software.
+This License shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law provisions.
 
-4. Ownership
-   ADS retains all right, title, and interest in and to the Software, including all intellectual property rights.
+## 10. Updates and Modifications
 
-5. Confidentiality
-   You agree to maintain the confidentiality of the Software and not disclose any part of it to third parties without prior written consent from ADS.
+Tiidel reserves the right to update, modify, or discontinue the Software at any time without notice.
 
-6. Termination
-   This License is effective until terminated. ADS may terminate this License at any time if you fail to comply with any term or condition. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+## 11. Acknowledgment
 
-7. Disclaimer of Warranty
-   The Software is provided "AS IS" without warranty of any kind, either express or implied.
+By using the Software, you acknowledge that you have read this License, understand it, and agree to be bound by its terms and conditions.
 
-8. Limitation of Liability
-   In no event shall ADS be liable for any damages arising out of the use or inability to use the Software.
+---
 
-9. Governing Law
-   This License shall be governed by and construed in accordance with the laws of Cameroon.
+For any questions regarding this License, please contact [Your Contact Email].
 
-By using the Software, you agree to be bound by the terms of this License.
+**By using the Software, you agree to be bound by the terms of this License.**
